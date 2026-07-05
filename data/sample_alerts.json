@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-06-25 10:00:00",
+    "source_ip": "192.168.1.10",
+    "event": "FAILED_LOGIN",
+    "count": 8
+  },
+  {
+    "timestamp": "2026-06-25 10:05:00",
+    "source_ip": "10.0.0.5",
+    "event": "PORT_SCAN",
+    "count": 25
+  }
+]
